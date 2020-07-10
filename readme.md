@@ -1,2 +1,2 @@
-#Tic Tac Toe app in C
+# Tic Tac Toe app in C
 test
